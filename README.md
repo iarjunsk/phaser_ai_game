@@ -4,7 +4,11 @@
 
 Phaser game that learns jump patterns using neural analysis
 
-Read the following article : [Game AI using Phaser.io and Synaptic](http://www.arjunsk.com/game/game-ai-using-phaser-io-synaptic/) 
+Read the following article : 
+
+[Making the game part](http://www.arjunsk.com/game/game-ai-using-phaser-io-synaptic/) 
+
+[The Neural Network part](http://www.arjunsk.com/ml/game-ai-using-phaser-io-synaptic-part-2/) 
 
 ## Video Demo: 
 [![Phaser Synaptic Game](https://img.youtube.com/vi/ppKRs4YzD7U/0.jpg)](https://www.youtube.com/watch?v=ppKRs4YzD7U)
