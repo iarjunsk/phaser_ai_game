@@ -11,4 +11,4 @@ Read the following articles :
 [The Neural Network part](http://www.arjunsk.com/ml/game-ai-using-phaser-io-synaptic-part-2/) 
 
 ## Video Demo: 
-[![Phaser Synaptic Game](https://img.youtube.com/vi/ppKRs4YzD7U/0.jpg)](https://www.youtube.com/watch?v=ppKRs4YzD7U)
+[![Phaser Synaptic Game](https://img.youtube.com/vi/dA7IvCHtM6w/0.jpg)](https://www.youtube.com/watch?v=dA7IvCHtM6w)
