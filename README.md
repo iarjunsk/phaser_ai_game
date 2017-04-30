@@ -4,7 +4,7 @@
 
 Phaser game that learns jump patterns using neural analysis
 
-Read the following article : 
+Read the following articles : 
 
 [Making the game part](http://www.arjunsk.com/game/game-ai-using-phaser-io-synaptic/) 
 
