@@ -1,5 +1,5 @@
 # Phaser Game using Synaptic Neural Networks
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/arjunsk/phaser_ai_game)
+
 ![Image](/banner.png)
 
 Phaser game that learns jump patterns using neural analysis
